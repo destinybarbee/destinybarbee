@@ -14,10 +14,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 <hr/>
 
-## 🤳 Connect With Me
 
-
-[linkedin]: https://linkedin.com/in/destiny-williams-d0991/
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
